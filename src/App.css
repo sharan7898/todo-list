@@ -80,3 +80,14 @@ h1 {
   color: #c5aeff;
   text-decoration: line-through;
 }
+
+.pagination-button {
+  background: #8758ff;
+  border-radius: 25px;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
